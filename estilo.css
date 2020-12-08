@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(24, 89, 146);
+}
+section {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+#logo {
+    width: 50%;
+    margin-bottom: 30px;
+}
+#campo {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px 40px 40px 40px;
+}
+h1 {
+    font: bold 16px arial;
+    color: white;
+}
+#resposta {
+    font: bold 16px arial;
+    margin: 0 0 20px 0;
+}
+
+#btVal {
+    width: 100%;
+    border-radius: 25px;
+    height: 40px;
+    background-color: rgb(80, 214, 170);
+    font: normal 18px arial;
+    color: white;
+    border: none;
+    cursor: pointer;
+    outline: 0;
+}
+#btVal:hover {
+    background-color: rgb(207, 247, 233);
+    color: rgb(80, 214, 170);
+}
+#email {
+    width: 100%;
+    margin-bottom: 20px;
+    height: 30px;
+    background-color: rgb(226, 226, 226);
+    border: none;
+    border-radius: 15px;
+    outline: 0;
+    padding-left: 20px;
+}
